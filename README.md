@@ -18,6 +18,7 @@ Run ```setup.sh``` to (i) download a pre-trained VGG-19 dataset and (ii) extract
 Solutions were provided by [Aman Chadha](https://github.com/amanchadha).
 
 ## Programming Assignments
+Follow the links below to view notebooks with solutions in browser (you won't be able to modify or run the code).
 
 ### Course 1: Neural Networks and Deep Learning
 
