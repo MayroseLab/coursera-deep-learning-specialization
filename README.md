@@ -1,4 +1,5 @@
 # Deep Learning Specialization on Coursera (offered by deeplearning.ai)
+This is a fork of [this repo](https://github.com/amanchadha/coursera-deep-learning-specialization), created to allow execution of notebooks using a conda environment.
 
 Programming assignments and quizzes from all courses in the Coursera [Deep Learning specialization](https://www.coursera.org/specializations/deep-learning) offered by `deeplearning.ai`.
 
@@ -14,7 +15,7 @@ Run ```setup.sh``` to (i) download a pre-trained VGG-19 dataset and (ii) extract
 
 ## Credits
 
-This repo contains my work for this specialization. The code base, quiz questions and diagrams are taken from the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning), unless specified otherwise.
+Solutions were provided by [Aman Chadha](https://github.com/amanchadha).
 
 ## Programming Assignments
 
