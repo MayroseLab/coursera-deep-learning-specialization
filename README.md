@@ -14,9 +14,10 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 1. Make sure you can run [conda](https://docs.conda.io/en/latest/miniconda.html), preferably with [mamba](https://github.com/mamba-org/mamba) installed.
 2. Download the file `DL.conda.yml` : `wget https://github.com/MayroseLab/coursera-deep-learning-specialization/raw/master/DL.conda.yml`
 3. Create the conda environment with `conda env create -f DL.conda.yml` (or `mamba env create -f DL.conda.yml`)
-4. Run `git lfs install`
-5. Clone the repo: `git clone git@github.com:MayroseLab/coursera-deep-learning-specialization.git`
-6. Run: `cd coursera-deep-learning-specialization; bash setup.sh` (you might get an error message at the end - that's OK).
+4. Activate the environment: `conda activate DL`
+5. Run `git lfs install`
+6. Clone the repo: `git clone git@github.com:MayroseLab/coursera-deep-learning-specialization.git`
+7. Run: `cd coursera-deep-learning-specialization; bash setup.sh` (you might get an error message at the end - that's OK).
 
 ## Running the notebooks (Linux)
 1. Start an interactive session: `qsub -I -X -q <queue name> -N <job name>`
