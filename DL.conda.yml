@@ -1,0 +1,27 @@
+name: DL
+channels:
+  - conda-forge
+dependencies:
+  - babel
+  - opencv
+  - emoji
+  - faker
+  - h5py
+  - keras
+  - matplotlib
+  - music21
+  - numpy
+  - pandas
+  - pillow
+  - pydot
+  - pydub
+  - scipy
+  - tensorflow
+  - tqdm
+  - python=3
+  - jupyterlab
+  - git
+  - git-lfs
+  - firefox
+  - scikit-learn
+
