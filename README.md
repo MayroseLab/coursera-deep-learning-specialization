@@ -19,6 +19,11 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 6. Run: `cd coursera-deep-learning-specialization; bash setup.sh` (you might get an error message at the end - that's OK).
 
 ## Running the notebooks (Linux)
+1. Start an interactive session: `qsub -I -X -q <queue name> -N <job name>`
+2. `cd` to the repository location.
+3. Run: `bash run_notebooks.sh`
+4. You'll see messages printed to the screen (possibly errors to). Wait for it to complete and for Firefox to open. Within Firefox, paste the URL `http://localhost:8888/lab` (or whatever is indicated on the screen).
+5. You can now browse the course files. In each week you have the exercises as .ipynb files - w/o solutions. Just double-click them and start working. Enjoy!
 
 ## Credits
 
