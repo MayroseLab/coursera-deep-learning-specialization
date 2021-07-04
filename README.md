@@ -9,7 +9,14 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ### For detailed interview-ready notes on all courses in the Coursera Deep Learning specialization, refer [www.aman.ai](https://aman.ai/).
 
-## Setup
+## Setup (Linux)
+
+1. Make sure you can run [conda](https://docs.conda.io/en/latest/miniconda.html), preferably with [mamba](https://github.com/mamba-org/mamba) installed.
+2. Download the file `DL.conda.yml`
+3. Create the conda environment with `conda env create -f DL.conda.yml` (or `mamba env create -f DL.conda.yml`)
+4. Clone the repo: `git clone `
+5. Run: `cd coursera-deep-learning-specialization; bash setup.sh` (you might get an error message at the end - that's OK).
+
 
 Run ```setup.sh``` to (i) download a pre-trained VGG-19 dataset and (ii) extract the zip'd pre-trained models and datasets that are needed for all the assignments.
 
