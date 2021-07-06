@@ -28,7 +28,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ## Credits
 
-Solutions were provided by [Aman Chadha](https://github.com/amanchadha).
+Exercise solutions and the original repo were provided by [Aman Chadha](https://github.com/amanchadha).
 
 ## Programming Assignments
 Follow the links below to view notebooks with solutions in browser (you won't be able to modify or run the code).
