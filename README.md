@@ -16,7 +16,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 3. Create the conda environment with `conda env create -f DL.conda.yml` (or `mamba env create -f DL.conda.yml`)
 4. Activate the environment: `conda activate DL`
 5. Run `git lfs install`
-6. Clone the repo: `git clone git@github.com:MayroseLab/coursera-deep-learning-specialization.git`
+6. Clone the repo: `git clone https://github.com/MayroseLab/coursera-deep-learning-specialization.git`
 7. Run: `cd coursera-deep-learning-specialization; bash setup.sh` (you might get an error message at the end - that's OK).
 
 ## Running the notebooks (Linux)
